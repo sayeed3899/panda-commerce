@@ -1,3 +1,6 @@
+.container{
+    margin-bottom: 100px;
+}
 .custom-btn{
     background-color: black;
     margin-top: 10px;
@@ -7,11 +10,11 @@
 }
 .card{
 text-align: center;
-margin: 50px 50px;
-}
-.card-body{
-    padding: none;
+border: none;
 }
 .right{
     color: orange;
+}
+.catagori{
+    text-align: center;
 }
