@@ -1,0 +1,17 @@
+.custom-btn{
+    background-color: black;
+    margin-top: 10px;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 30px;
+}
+.card{
+text-align: center;
+margin: 50px 50px;
+}
+.card-body{
+    padding: none;
+}
+.right{
+    color: orange;
+}
